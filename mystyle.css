@@ -1,2 +1,12 @@
+body{
+  text-align: left;
+  background-color: #e0ffff;
+}
+
+img{wight:600px;}
+
+a{
+  font-size:25px;
+}
 
 h1{color:#0000ff;}
